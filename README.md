@@ -1,6 +1,5 @@
-# ML
+# Machine Learning
 
-README
 Descripción del Proyecto
 
 Este proyecto tiene como objetivo analizar datos históricos de criptomonedas y desarrollar modelos de machine learning capaces de predecir si el precio de una criptomoneda subirá o bajará. Se trata de un problema de clasificación aplicado a series temporales financieras.
